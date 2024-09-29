@@ -30,8 +30,8 @@ AUTH_USER_MODEL = 'accounts.User'
 
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'eazeallianceservices@gmail.com'
-EMAIL_HOST_PASSWORD = 'kyxh strc grzt pkda'
+EMAIL_HOST_USER = 'write your mail id here'
+EMAIL_HOST_PASSWORD = 'write your app password'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
