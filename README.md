@@ -74,10 +74,11 @@ CompleteAuth is a Django project that provides a complete authentication system 
 
 ## Requirements
 
-    ```txt
-    Django==5.0
-    djangorestframework==3.14.0
-    ```
+    
+   ```bash
+   Django==5.0
+   djangorestframework==3.14.0
+   ```
 
 ## Usage
 - Register: Users can sign up by providing an email and password.
